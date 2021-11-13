@@ -10,6 +10,7 @@ body {
   border-radius: 1rem;
   padding: 4rem 4rem 1rem;
   background: #fff;
+  color: #000;
 }
 
 .cs-content .content {
@@ -28,6 +29,6 @@ body {
   position: static;
 }
 
-.button, .cs-link-button {
+.button, .cs-link-button, input[type=button] {
   background: #000 !important;
 }
