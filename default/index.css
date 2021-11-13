@@ -8,8 +8,12 @@ body {
   max-width: 600px;
   margin: 2rem auto;
   border-radius: 1rem;
-  padding: 4rem;
+  padding: 4rem 4rem 1rem;
   background: #fff;
+}
+
+.cs-content .content {
+  color: #000;
 }
 
 .heading, .cs-select-login-provider-instructions, .passwordless-signin, .login-footer, .alternate-signin-toggle, #forgot-password-link {
@@ -24,6 +28,6 @@ body {
   position: static;
 }
 
-.login-main button {
-  background: #000;
+button, .cs-link-button {
+  background: #000 !important;
 }
