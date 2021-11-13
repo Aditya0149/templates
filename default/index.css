@@ -3,12 +3,12 @@ body {
   display: block;
 }
 
-.cs-content {
+.cs-content, .registration-container {
   position: static;
   max-width: 600px;
   margin: 2rem auto;
   border-radius: 1rem;
-  padding: 5rem;
+  padding: 4rem;
   background: #fff;
 }
 
@@ -17,7 +17,7 @@ body {
 }
 
 .cloud-directory {
-  display: bolck !important;
+  display: block !important;
 }
 
 .login-main {
