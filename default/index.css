@@ -38,3 +38,8 @@ body {
     font-size: 2rem;
 }
 
+.dropdown-text {
+  display: flex;
+  align-items: center;
+}
+
