@@ -9,12 +9,21 @@ body {
   margin: 2rem auto;
   border-radius: 1rem;
   padding: 5rem;
+  background: #fff;
 }
 
-.heading, .cs-select-login-provider-instructions, .passwordless-signin, .login-footer {
+.heading, .cs-select-login-provider-instructions, .passwordless-signin, .login-footer, .alternate-signin-toggle, #forgot-password-link {
   display: none !important;
+}
+
+.cloud-directory {
+  display: bolck !important;
 }
 
 .login-main {
   position: static;
+}
+
+.login-main button {
+  background: #000;
 }
