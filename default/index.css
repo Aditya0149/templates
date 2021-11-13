@@ -32,3 +32,9 @@ body {
 .button, .cs-link-button, input[type=button] {
   background: #000 !important;
 }
+
+.isv-heading {
+    margin-bottom: 1rem;
+    font-size: 2rem;
+}
+
