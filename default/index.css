@@ -43,3 +43,9 @@ body {
   align-items: center;
 }
 
+.sign-up-instruncation {
+  margin-top: 1rem;
+  text-align: end;
+  font-size: 1rem;
+}
+
