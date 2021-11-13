@@ -28,6 +28,6 @@ body {
   position: static;
 }
 
-button, .cs-link-button {
+.button, .cs-link-button {
   background: #000 !important;
 }
