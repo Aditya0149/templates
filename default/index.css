@@ -59,6 +59,7 @@ a {
 }
 
 .heading {
+  display: none !important;
   text-align: right;
   background: transparent;
   position: fixed;
