@@ -17,7 +17,7 @@ body {
   color: #000;
 }
 
-.heading, .cs-select-login-provider-instructions, .passwordless-signin, .login-footer, .alternate-signin-toggle, #forgot-password-link {
+.cs-select-login-provider-instructions, .passwordless-signin, .login-footer, .alternate-signin-toggle, #forgot-password-link {
   display: none !important;
 }
 
