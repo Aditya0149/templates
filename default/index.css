@@ -6,7 +6,7 @@ body {
 .cs-content, .registration-container {
   position: static;
   max-width: 600px;
-  margin: 2rem auto;
+  margin: 11rem auto;
   border-radius: 1rem;
   padding: 2rem 4rem 1rem;
   background: #fff;
@@ -59,9 +59,11 @@ a {
 }
 
 .heading {
-  height: 7rem;
-  text-align: center;
+  text-align: right;
   background: transparent;
+  position: fixed;
+  top: 0;
+  right: 0;
 }
 
 
