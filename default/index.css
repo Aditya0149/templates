@@ -8,7 +8,7 @@ body {
   max-width: 600px;
   margin: 2rem auto;
   border-radius: 1rem;
-  padding: 4rem 4rem 1rem;
+  padding: 2rem 4rem 1rem;
   background: #fff;
   color: #000;
 }
@@ -60,7 +60,7 @@ a {
 
 .heading {
   height: 7rem;
-  text-align: left;
+  text-align: center;
   background: transparent;
 }
 
