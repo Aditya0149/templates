@@ -53,3 +53,11 @@ a {
   color: #0f62fe;
 }
 
+.heading img {
+  height: 100%
+}
+
+.heading {
+  height: 7rem;
+  text-align: left;
+}
