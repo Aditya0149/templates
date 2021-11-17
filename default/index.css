@@ -27,6 +27,7 @@ body {
 
 .login-main {
   position: static;
+  background: transparent;
 }
 
 .button, .cs-link-button, input[type=button], button[type=submit] {
@@ -60,4 +61,7 @@ a {
 .heading {
   height: 7rem;
   text-align: left;
+  background: transparent;
 }
+
+
